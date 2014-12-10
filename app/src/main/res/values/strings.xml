@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asterocosmos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="action_scan">QR Scan</string>
+
+    <!-- Label for the location preference [CHAR LIMIT=30] -->
+    <string name="pref_location_label">Location</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
+    <string name="pref_location_default" translatable="false">Thessaloniki International Exhibition GR</string>
+    <string name="title_activity_qrreader">QRreader</string>
+    <string name="title_activity_qrcontent">QRcontent</string>
+    <string name="title_activity_scan_no1">scanNo1</string>
+    <string name="title_activity_scan_no2">scanNo2</string>
+    <string name="title_activity_scan_no3">scanNo3</string>
+    <string name="title_activity_scan_no4">scanNo4</string>
+    <string name="title_activity_scan_no5">scanNo5</string>
+    <string name="title_activity_scan_no6">scanNo6</string>
+    <string name="title_activity_scan_no7">scanNo7</string>
+    <string name="title_activity_scan_no8">scanNo8</string>
+    <string name="title_activity_scan_no9">scanNo9</string>
+    <string name="title_activity_scan_no10">scanNo10</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="unlock">You unlocked the achievement:</string>
+    <string name="locked">Achievement Locked!</string>
+
+    <!-- CLUES and ACHIEVEMENTS names -->
+    <string name="achievement1_name">Dasher</string>
+    <string name="clue1">Do you know who wrote the Swan Lake?</string>
+    <string name="hint1">..... It was Pyotr Tchaikovsky at 1875/76. Go to the Magic Frozen Forest</string>
+    <string name="achievement2_name">Dancer </string>
+    <string name="clue2">That pavilion reminds me a little bit Star Wars</string>
+    <string name="hint2">Go and play at the Star Games pavilion</string>
+    <string name="achievement3_name">Prancer</string>
+    <string name="clue3">Are the elves doing their job correctly? Go and check! </string>
+    <string name="hint3">Santa\'s workshop is waiting for you</string>
+    <string name="achievement4_name">Vixen</string>
+    <string name="clue4">Did you finish your homework? Study time!</string>
+    <string name="hint4">You\'re gone love our Magic Books</string>
+    <string name="achievement5_name">Comet</string>
+    <string name="clue5">Knock knock! But where are all the elves!?</string>
+    <string name="hint5">Let\'s go and check at the The Elves Town</string>
+    <string name="achievement6_name">Cupid</string>
+    <string name="clue6">Is there a ballarina dancing in that box?</string>
+    <string name="hint6">Let\'s find out at the Music Box</string>
+    <string name="achievement7_name">Donder</string>
+    <string name="clue7">Fairies decorated the most beautiful Christmas Tree!</string>
+    <string name="hint7">See for yourself at The Frozen Fairy Castle</string>
+    <string name="achievement8_name">Blitzen</string>
+    <string name="clue8">Careful! Don\'t break any legs</string>
+    <string name="hint8">Impress everyone with your skating skills at the big Skating Rink</string>
+    <string name="achievement9_name">Rudolph</string>
+    <string name="clue9">Wonder what\'s there..? The Flintstones maybe?</string>
+    <string name="hint9">Yes it\'s The Frozen Stone Village</string>
+    <string name="achievement10_name">Sugarplum Mary</string>
+    <string name="clue10">Charlie is looking for you.. Told me that he has some candies to give you</string>
+    <string name="hint10">Yummy Let\'s go to the Chocolate Factory!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_activity_scan">activity_scan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+
+
+ <!--   &lt;!&ndash;SHARED PREFERENCES &ndash;&gt;
+    <string name="flag1_key">flag1</string>
+    <string name="flag1_default">0</string>
+
+    <string name="flag2_key">flag2</string>
+    <string name="flag2_default">0</string>
+
+    <string name="flag3_key">flag3</string>
+    <string name="flag3_default">0</string>
+
+    <string name="flag4_key">flag4</string>
+    <string name="flag4_default">0</string>
+
+    <string name="flag5_key">flag5</string>
+    <string name="flag5_default">0</string>
+
+    <string name="flag6_key">flag6</string>
+    <string name="flag6_default">0</string>
+
+    <string name="flag7_key">flag7</string>
+    <string name="flag7_default">0</string>
+
+    <string name="flag8_key">flag8</string>
+    <string name="flag8_default">0</string>
+
+    <string name="flag9_key">flag9</string>
+    <string name="flag9_default">0</string>
+
+    <string name="flag10_key">flag10</string>
+    <string name="flag10_default">0</string>
+
+    <string name="flag_all">flag_all</string>
+    <string name="flag_all_default">0</string>-->
+</resources>

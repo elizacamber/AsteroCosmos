@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.liz.AsteroCosmos.scanNo1$PlaceholderFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image_santa"
+            android:paddingBottom="72dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/congrats_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/congrats"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/colorSecondaryDark"
+            android:paddingBottom="16dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unlock"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:paddingBottom="16dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/achiev_name_textbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/achievement3_name"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:paddingBottom="64dp"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+</FrameLayout>
